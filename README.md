@@ -24,3 +24,11 @@ Have fun out there kids.
 
 ![Screen Shot 2021-07-14 at 6 11 55 PM](https://user-images.githubusercontent.com/83469949/125717465-b797be03-5b3d-4ba6-9889-390777d4deb9.png)
 
+References:
+
+https://github.com/dotnet/docs/blob/main/docs/core/tools/dotnet-publish.md
+
+https://docs.microsoft.com/en-us/dotnet/core/deploying/single-file
+
+
+
